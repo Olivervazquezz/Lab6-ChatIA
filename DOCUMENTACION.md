@@ -133,4 +133,4 @@ La API key se usa directamente desde el cliente y se guarda en `localStorage`. *
 
 ## 9. Repositorio
 
-[Pegar aquí la liga del repo de GitHub]
+https://github.com/Olivervazquezz/Lab6-ChatIA
